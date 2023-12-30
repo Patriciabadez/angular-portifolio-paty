@@ -1,2 +1,6 @@
-# angular-portifolio-paty
-angular-portifolio-paty
+# PortifolioAngular
+
+### Passos: 
+***Comandos***
+* criar projeto => ng new portifolio-angular
+* rodar projeto => ng serve
